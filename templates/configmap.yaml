@@ -1,0 +1,1 @@
+{{- include "web.configmap" . | nindent 0 }}
