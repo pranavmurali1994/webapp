@@ -1,4 +1,4 @@
-replicaCount: 1
+replicaCount: 2
 image:
   repository: testproject.azurecr.io/goapp
   tag: latest
@@ -7,7 +7,14 @@ service:
   type: ClusterIP
   port: 80
 appMessage: "hello-world"
-resources: {}
+
+resources:
+  requests:
+    cpu: "50m"   
+    memory: "64Mi"
+  limits:
+    cpu: "200m" 
+    memory: "128Mi"
 
 readinessProbe:
   path: /version
@@ -19,3 +26,15 @@ livenessProbe:
   port: 8080
   initialDelaySeconds: 5
   periodSeconds: 5
+
+ingress:
+  enabled: true                
+  className: nginx              
+  annotations:                 
+    kubernetes.io/ingress.class: nginx
+    nginx.ingress.kubernetes.io/rewrite-target: /
+  hosts:
+    - host: goapp.com
+      paths:
+        - path: /              
+          pathType: Prefix   
