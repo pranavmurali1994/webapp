@@ -2,6 +2,8 @@
 Basic Architecture of the Deployment:
 <img width="1333" height="623" alt="image" src="https://github.com/user-attachments/assets/67e18705-789f-49cd-93a6-ad6045c2a9d4" />
 
+# Link: to jenkins pipeline stages:
+https://github.com/pranavmurali1994/webapp_jenkinsfile/blob/main/jenkinsfile
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Hello World
 <img width="1670" height="462" alt="image" src="https://github.com/user-attachments/assets/069eb534-8796-45ba-bade-caef5a8cceb7" />
