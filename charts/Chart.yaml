@@ -3,4 +3,4 @@ name: web
 description: web app that demonstrates ConfigMap driven rolling update
 type: application
 version: 0.1.0
-appVersion: "1.0"
+appVersion: "REPLACE_COMMIT_ID"

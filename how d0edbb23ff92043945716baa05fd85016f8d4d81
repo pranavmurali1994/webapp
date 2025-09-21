@@ -1,0 +1,47 @@
+[33mcommit d0edbb23ff92043945716baa05fd85016f8d4d81[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: pranavmurali <pranav.murali@zenda.com>
+Date:   Sun Sep 21 15:12:47 2025 +0530
+
+    update image pull policy
+
+[33mcommit 08ceb09c7060df108f28050d77bf7d01000f80a8[m
+Author: pranavmurali <pranav.murali@zenda.com>
+Date:   Sun Sep 21 12:49:00 2025 +0530
+
+    update nginx label
+
+[33mcommit af5cf415f1a3bf778bf920aa068e99190e8ea7fd[m
+Author: pranavmurali <pranav.murali@zenda.com>
+Date:   Sun Sep 21 11:04:03 2025 +0530
+
+    set Resource Limit + ingress config
+
+[33mcommit df2c10235a828e1c2a11c4f4e77393e76bf51029[m
+Author: pranavmurali <pranav.murali@zenda.com>
+Date:   Sat Sep 20 23:26:50 2025 +0530
+
+    remove unwanted items from values
+
+[33mcommit 11f65ce67d586c00245bd5f063be8a2021eeee51[m
+Author: pranavmurali <pranav.murali@zenda.com>
+Date:   Sat Sep 20 23:20:26 2025 +0530
+
+    structure chart
+
+[33mcommit 0adef77cd2815bd68f16b16e23c3dc1fb9dac383[m
+Author: pranavmurali <pranav.murali@zenda.com>
+Date:   Sat Sep 20 23:16:34 2025 +0530
+
+    update probs
+
+[33mcommit 4740387a3d6a8e9bd6d1a5d5fc7ebf927e58989d[m
+Author: pranavmurali <pranav.murali@zenda.com>
+Date:   Sat Sep 20 23:11:03 2025 +0530
+
+    update 1st commit
+
+[33mcommit aeb39437ce092ab3bd5bb98cce919e31bb0aab82[m
+Author: pranavmurali1994 <92468658+pranavmurali1994@users.noreply.github.com>
+Date:   Sat Sep 20 23:03:34 2025 +0530
+
+    Initial commit
