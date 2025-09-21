@@ -2,7 +2,7 @@ replicaCount: 2
 image:
   repository: testproject.azurecr.io/goapp
   tag: latest
-  pullPolicy: IfNotPresent
+  pullPolicy: Always
 service:
   type: ClusterIP
   port: 80
