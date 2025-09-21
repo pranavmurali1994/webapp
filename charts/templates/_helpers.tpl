@@ -19,3 +19,7 @@ data:
 {{- define "web.configmapHash" -}}
 {{- include "web.configmap" . | sha256sum -}}
 {{- end -}}
+
+{{- define "web.labels" -}}
+app.kubernetes.io/test: {{ .Values.env | default "staging" }}
+{{- end -}}
