@@ -12,7 +12,8 @@ Basic Architecture of the Deployment:
 Hello World Output From Postman
 <img width="1196" height="453" alt="image" src="https://github.com/user-attachments/assets/d4230ecc-f32b-477e-8398-050e434cf3ba" />
 
-checksum value from the Deployment after the Hello World Deployment
+checksum value from the Deployment after the Hello World Deployment:
+
 Pod Template:
   Labels:       app=web
   Annotations:  checksum/config: 89c1a2d8a7431f3ea0bb046a24c9bd73e7b6e855eee5df1cc1b43c73d316033b
@@ -28,7 +29,8 @@ Pod Template:
 Hola Output From Postman
 <img width="1184" height="474" alt="image" src="https://github.com/user-attachments/assets/189f6f90-683f-4b8c-84fc-22ba56ba1837" />
 
-checksum value from the Deployment after the Hola Deployment
+checksum value from the Deployment after the Hola Deployment:
+
 Pod Template:
   Labels:       app=web
   Annotations:  checksum/config: 2a7affd326fc6419166d546015cbdaf2345de9c4e82fb0435672911fcff7f28f
