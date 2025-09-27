@@ -1,6 +1,7 @@
 # HELM Deployment
 Basic Architecture of the Deployment:
-<img width="1751" height="631" alt="v2 drawio" src="https://github.com/user-attachments/assets/ef290c57-4ee5-4423-9aa6-a01686ccc27f" />
+<img width="1429" height="530" alt="v2 drawio" src="https://github.com/user-attachments/assets/c08b4511-18e9-4dc5-9be3-d0f2837fc3a8" />
+
 
 # Link top main Repo:
 https://github.com/pranavmurali1994/webapp
